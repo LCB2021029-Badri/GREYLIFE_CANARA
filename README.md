@@ -40,36 +40,36 @@ The Android app has two sides:
 ### Login and Signup Screens:
 
 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/78303699-85a9-4de2-bdd1-d15a06b81578" width="240" height="520" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/9fdb5c7c-8c62-4092-bacd-c1c105f42c19" width="240" height="520" />
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/78303699-85a9-4de2-bdd1-d15a06b81578" width="240" height="510" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/9fdb5c7c-8c62-4092-bacd-c1c105f42c19" width="240" height="510" />
 
 ### Home and Status Screens:
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/7dc868c4-8757-4c9d-8672-48bb84c9032a" width="240" height="520" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/1b1f07e5-ace3-43de-b429-9d4ded37a2ab" width="240" height="520" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/bd092c5e-731e-4ebb-890e-4937e14698f7" width="240" height="520" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/517b5875-e32c-4340-bd0c-98839d4181b2" width="240" height="520"/>
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/7dc868c4-8757-4c9d-8672-48bb84c9032a" width="240" height="510" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/1b1f07e5-ace3-43de-b429-9d4ded37a2ab" width="240" height="510" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/bd092c5e-731e-4ebb-890e-4937e14698f7" width="240" height="510" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/517b5875-e32c-4340-bd0c-98839d4181b2" width="240" height="510"/>
 
 
 
 
 ### SRIT Test and Risk Mitigation Screens:
 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/e40e3ea3-3565-4978-a598-72475595ce6d" width="240" height="520" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/6f8db64c-ee31-459d-b4ae-c0ef365d6755" width="240" height="520"/>
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/ff5cb069-92c5-45fd-9ced-20021a3c83df" width="240" height="520" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/e40e3ea3-3565-4978-a598-72475595ce6d" width="240" height="510" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/6f8db64c-ee31-459d-b4ae-c0ef365d6755" width="240" height="510"/>
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/ff5cb069-92c5-45fd-9ced-20021a3c83df" width="240" height="510" /> 
 
 
 ## Lender's Side App Screenshots
 
 ### Chat and Risk Mitigation Screens:
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/8bc58ede-f77b-486d-b9b7-786e08ccb4d8" width="240" height="520" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/7a781697-f504-4967-8da1-39cda63178ee" width="240" height="520" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/8bc58ede-f77b-486d-b9b7-786e08ccb4d8" width="240" height="510" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/7a781697-f504-4967-8da1-39cda63178ee" width="240" height="510" /> 
 
 ### Customer Details and Status:
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/8bc58ede-f77b-486d-b9b7-786e08ccb4d8" width="240" height="520" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/5699fa3d-77e1-4133-9aa8-96a146b121e1" width="240" height="520" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/5c3b1828-897d-42a9-b4be-39527c0a1c17" width="240" height="520" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/4240e5ec-69f3-4fd6-9c05-cdd00ea659c0" width="240" height="520" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/8bc58ede-f77b-486d-b9b7-786e08ccb4d8" width="240" height="510" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/5699fa3d-77e1-4133-9aa8-96a146b121e1" width="240" height="510" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/5c3b1828-897d-42a9-b4be-39527c0a1c17" width="240" height="510" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/4240e5ec-69f3-4fd6-9c05-cdd00ea659c0" width="240" height="510" /> 
 
 ## Machine Learning
 ### Overview
