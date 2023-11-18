@@ -39,8 +39,9 @@ The Android app has two sides:
 
 ### Login and Signup Screens:
 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/286dbaf3-6fdb-4477-bb7f-7f240e1c6255" width="250" height="500" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/878a9f68-0140-4978-9932-12b2bc78edb5" width="250" height="500" />
+
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/78303699-85a9-4de2-bdd1-d15a06b81578" width="250" height="500" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/9fdb5c7c-8c62-4092-bacd-c1c105f42c19" width="250" height="500" />
 
 ### Home and Status Screens:
 <img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/16ec6432-b102-4d8d-8942-78e0059628c1" width="250" height="500" /> 
