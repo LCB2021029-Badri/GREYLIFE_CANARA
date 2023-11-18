@@ -53,10 +53,10 @@ The Android app has two sides:
 
 
 ### SRIT Test and Risk Mitigation Screens:
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/476d3813-3c85-473d-914c-e8e86e71a1c3" width="250" height="500" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/8d8d3e78-5411-4664-b72e-d86483ccfe92" width="250" height="500" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/6f8db64c-ee31-459d-b4ae-c0ef365d6755" width="250" height="500"/>
 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/e40e3ea3-3565-4978-a598-72475595ce6d" width="250" height="500" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/6f8db64c-ee31-459d-b4ae-c0ef365d6755" width="250" height="500"/>
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/ff5cb069-92c5-45fd-9ced-20021a3c83df" width="250" height="500" /> 
 
 
 ## Lender's Side App Screenshots
