@@ -44,13 +44,19 @@ The Android app has two sides:
 <img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/9fdb5c7c-8c62-4092-bacd-c1c105f42c19" width="250" height="500" />
 
 ### Home and Status Screens:
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/16ec6432-b102-4d8d-8942-78e0059628c1" width="250" height="500" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/ce939219-55d8-48e7-9237-3b0155a18d79" width="250" height="500" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/5e8a8d03-d8a8-474f-8cc3-f965d3596887" width="250" height="500" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/7dc868c4-8757-4c9d-8672-48bb84c9032a" width="250" height="500" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/1b1f07e5-ace3-43de-b429-9d4ded37a2ab" width="250" height="500" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/bd092c5e-731e-4ebb-890e-4937e14698f7" width="250" height="500" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/517b5875-e32c-4340-bd0c-98839d4181b2" width="250" height="500"/>
+
+
+
 
 ### SRIT Test and Risk Mitigation Screens:
 <img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/476d3813-3c85-473d-914c-e8e86e71a1c3" width="250" height="500" /> 
 <img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/8d8d3e78-5411-4664-b72e-d86483ccfe92" width="250" height="500" /> 
+<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/6f8db64c-ee31-459d-b4ae-c0ef365d6755" width="250" height="500"/>
+
 
 
 ## Lender's Side App Screenshots
