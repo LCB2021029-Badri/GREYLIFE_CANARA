@@ -136,7 +136,7 @@ Private blockchains are preferred in enterprise use cases, such as supply chain 
 - Polygon-Edge
 - JavaScript
 ## Meet The Team
-- KSN Samanwith (Team Leader)|[Github](https://github.com/Smarshal21)
 - Badri Akkala |[Github](https://github.com/LCB2021029-Badri)
+- KSN Samanwith |[Github](https://github.com/Smarshal21)
 
 
