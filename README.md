@@ -39,8 +39,8 @@ The Android app has two sides:
 
 ### Login and Signup Screens:
 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/78303699-85a9-4de2-bdd1-d15a06b81578" width="240" height="510" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/9fdb5c7c-8c62-4092-bacd-c1c105f42c19" width="240" height="510" />
+<img src="https://github.com/Smarshal21/Airbus_Aerothon/assets/96579549/ecfbc084-f344-40c2-bdc9-0aae522e9e0a" width="240" height="510" /> 
+<img src="https://github.com/Smarshal21/Airbus_Aerothon/assets/96579549/291d8077-b063-4be3-955a-0b29bcbe0637" width="240" height="510" />
 
 ### Home and Status Screens:
 <img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/7dc868c4-8757-4c9d-8672-48bb84c9032a" width="240" height="510" /> 
