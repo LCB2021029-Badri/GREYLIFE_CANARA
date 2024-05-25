@@ -1,4 +1,4 @@
-# Airbus Aerothon 6.0 - Optimal ROute Planning & Risk Mitigation
+# Airbus Aerothon 6.0 - Optimal Route Planning & Risk Mitigation
 
 ## Introduction
 
@@ -11,48 +11,26 @@ This Project is divided into 3 parts:
 1. **Android**
 2. **Machine Learning**
 3. **Blockchain**
-
-## Android App
-
-The Android app has two sides:
-
-- **Borrower**
-- **Lender**
-
-## Borrower's Side App Screenshots
+4. 
 
 ### Login and Signup Screens:
 
 <img src="https://github.com/Smarshal21/Airbus_Aerothon/assets/96579549/ecfbc084-f344-40c2-bdc9-0aae522e9e0a" width="240" height="510" /> 
 <img src="https://github.com/Smarshal21/Airbus_Aerothon/assets/96579549/291d8077-b063-4be3-955a-0b29bcbe0637" width="240" height="510" />
 
-### Home and Status Screens:
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/7dc868c4-8757-4c9d-8672-48bb84c9032a" width="240" height="510" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/1b1f07e5-ace3-43de-b429-9d4ded37a2ab" width="240" height="510" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/bd092c5e-731e-4ebb-890e-4937e14698f7" width="240" height="510" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/517b5875-e32c-4340-bd0c-98839d4181b2" width="240" height="510"/>
+### Home Screens:
+<img src="https://github.com/LCB2021029-Badri/GREYLIFE_CANARA/assets/96579549/9718259b-bcb4-484b-b125-df413c8b1b66" width="240" height="510" /> 
 
 
+### Data Collection & Status Screens:
+
+<img src="https://github.com/LCB2021029-Badri/GREYLIFE_CANARA/assets/96579549/5e6d9c85-c307-4d49-bdb6-1de1dae2a136" width="240" height="510" /> 
+
+<img src="https://github.com/LCB2021029-Badri/GREYLIFE_CANARA/assets/96579549/0083e643-b098-400a-bc55-a3293bf2454a" width="240" height="510" /> 
 
 
-### SRIT Test and Risk Mitigation Screens:
-
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/e40e3ea3-3565-4978-a598-72475595ce6d" width="240" height="510" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/6f8db64c-ee31-459d-b4ae-c0ef365d6755" width="240" height="510"/>
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/ff5cb069-92c5-45fd-9ced-20021a3c83df" width="240" height="510" /> 
-
-
-## Lender's Side App Screenshots
-
-### Chat and Risk Mitigation Screens:
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/8bc58ede-f77b-486d-b9b7-786e08ccb4d8" width="240" height="510" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/7a781697-f504-4967-8da1-39cda63178ee" width="240" height="510" /> 
-
-### Customer Details and Status:
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/8bc58ede-f77b-486d-b9b7-786e08ccb4d8" width="240" height="510" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/5699fa3d-77e1-4133-9aa8-96a146b121e1" width="240" height="510" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/5c3b1828-897d-42a9-b4be-39527c0a1c17" width="240" height="510" /> 
-<img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/4240e5ec-69f3-4fd6-9c05-cdd00ea659c0" width="240" height="510" /> 
+### AI ChatBot / Risk Mitigation Screen:
+<img src="https://github.com/LCB2021029-Badri/GREYLIFE_CANARA/assets/96579549/99e5001b-9027-448d-967f-6a1f53ff9a96" width="240" height="510" /> 
 
 ## Machine Learning
 ### Overview
