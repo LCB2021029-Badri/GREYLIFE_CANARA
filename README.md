@@ -49,7 +49,6 @@ Can lead to improved model performance, especially when the individual models ha
 
 <img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/186e90d2-8e2e-4885-b72d-76308e8cf12b" width="700" height="300" /> 
 
-
 ### Sample Input and Output
 <img src="https://github.com/Smarshal21/GREYLIFE_CANARA/assets/99678760/04403898-f017-4204-a711-8576a999cd91" width="1000" height="500" /> 
 
