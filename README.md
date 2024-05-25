@@ -1,24 +1,8 @@
-# GreyLife Canara DACOE-Thon - Loan  Default Prediction & Prevention Solution
+# Airbus Aerothon 6.0 - Optimal ROute Planning & Risk Mitigation
 
 ## Introduction
 
-We propose to develop an AI-powered blockchain-based mobile application that will help Canara Bank to assess the risk of borrowers more accurately, making the process of loan prediction, tracking and prevention more reliable.
-This app collects essential borrower data, such as credit scores, income, and debt-to-income ratios, alongside collects non-traditional data form the user in the form of personality assessment test to anticipate financial
-behavior and risk tolerance level.
-
-An Advanced ML model is then employed to ascertain whether an applicant qualifies as a low-risk candidate based
-on both traditional and non-traditional data.
-Notably, all borrower information will be securely stored in a decentralised private blockchain network, ensuring the
-utmost security and privacy.
-
-The app contains a user friendly customer service assisted by Automated System and Live Human Interaction so
-that loan borrower can clear his doubts regarding the process etc, thus preventing the loan form turning into a bad
-loan.
-
-Furthermore, this application goes beyond risk assessment by offering borrowers personalised risk mitigation
-guidance through customer service. This approach encompasses financial education and tailored
-recommendations aimed at improving the borrower's financial well-being. By adopting a proactive stance, the
-application empowers borrowers to progressively diminish their risk profile over time.
+Enhancing flight navigation mechanisms is a critical priority for Airbus, aiming to improve operational efficiency and safety. We propose the design and implementation of an advanced software solution that identifies optimal flight routes and mitigates risks associated with GPS unavailability, adverse weather conditions, and system failures. This innovative AI-powered mobile app, integrated with blockchain technology for robust data security, offers real-time updates and alternative route suggestions. By leveraging artificial intelligence, machine learning, and data analytics, the solution minimizes human errors, ensures safety in adverse conditions, and detects system anomalies early. Optimized routes and real-time risk assessments not only enhance efficiency and reduce costs but also lower the carbon footprint, improve regulatory compliance, and increase reporting accuracy. Additionally, a chatbot feature provides intuitive assistance to pilots and control centers, further improving operational efficiency and safety.
 
 ## Project Components
 
